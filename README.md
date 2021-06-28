@@ -1,1 +1,2 @@
-TinDog Starting Files
+Citizen-D Starting Files.
+A dog website.
